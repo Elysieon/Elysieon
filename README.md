@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, I'm Elysieon</h1>
-<h3 align="center">Minecraft Modder, Youtuber and Silly Gal.</h3>
+<h3 align="center">Java Developer, Minecraft Modder, Youtuber and Silly Gal.</h3>
 
 - 📸 Youtube: https://www.youtube.com/@Elysieon
 - 🌲 Others: https://linktr.ee/Elysieon
