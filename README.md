@@ -5,6 +5,8 @@
 - 🌲 Others: https://linktr.ee/Elysieon
 - 🎨 Profile Picture: MY SISTER!
 
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+
 README Inspired by BackupCup: https://github.com/BackupCup
 
 <h3 align="left">Support:</h3>
